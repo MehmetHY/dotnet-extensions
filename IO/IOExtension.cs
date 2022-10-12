@@ -1,6 +1,6 @@
 using System.IO;
 
-namespace Mhy.Extensions;
+namespace Mhy.IO;
 
 public static class IOExtension
 {
